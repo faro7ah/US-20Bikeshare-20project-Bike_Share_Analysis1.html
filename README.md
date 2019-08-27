@@ -31,9 +31,10 @@ we have one notebook file that includes all the work related to the previous que
 
 <a id='Results'></a>
 # Results:
-chicago.jpg
-
 ![](images/chicago.jpg)
+![](images/ny.jpg)
+![](images/ws.jpg)
+
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
