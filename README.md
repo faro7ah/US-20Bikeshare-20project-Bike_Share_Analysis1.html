@@ -31,9 +31,9 @@ we have one notebook file that includes all the work related to the previous que
 
 <a id='Results'></a>
 # Results:
+chicago.jpg
 
-
-![](US-20Bikeshare-20project-Bike_Share_Analysis1.html/images/chicago.jpg)
+![](images/chicago.jpg)
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
