@@ -32,7 +32,7 @@ we have one notebook file that includes all the work related to the previous que
 <a id='Results'></a>
 # Results:
 
-![](images/github.ny.png)
+![](images/github.ny.jpg)
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
