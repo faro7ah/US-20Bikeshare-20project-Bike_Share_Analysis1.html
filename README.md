@@ -13,7 +13,6 @@ Licensing, Authors, and Acknowledgements
 Python versions 3.*.
 - Libraries:
 - Pandas.
-- Scikit-learn.
 - numpy.
 - matplotlib.
 - seaborn.
