@@ -26,7 +26,7 @@ In this project, we will make use of Python to exploring data related to bike-sh
 
 <a id='File Descriptions'></a>
 # File Descriptions:
-we have one notebook file that includes all the work related to the previous questions, and the dataset is available in [github](https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md) 
+we have one notebook file that includes all the work related to the previous questions, and the dataset is available in the above file[Data](https://github.com/faro7ah/US-20Bikeshare-20project-Bike_Share_Analysis1.html/tree/master/data) 
 
 
 <a id='Results'></a>
