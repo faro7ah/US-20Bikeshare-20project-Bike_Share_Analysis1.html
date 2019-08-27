@@ -31,8 +31,8 @@ we have one notebook file that includes all the work related to the previous que
 
 <a id='Results'></a>
 # Results:
-The main findings of the code can be found [here](https://medium.com/@farah.sidina/what-is-the-interesting-outcomes-from-fbi-gun-data-474f6e08f8d8).
 
+![](images/github.ny.png)
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 # Licensing, Authors, and Acknowledgements:
